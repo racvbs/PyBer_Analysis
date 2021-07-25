@@ -23,6 +23,8 @@ With this information we merge both files into one dataframe.
 
 ## Analysis
 The dataframe we have is:
+
+
 ![image](https://user-images.githubusercontent.com/85086918/126910928-68ebfa68-79b1-4102-98bb-bf1bfbc3f870.png)
 
 But we need a summary by city type, so the calculations were made and there are shown in this data frame:
@@ -39,7 +41,9 @@ Then, we have a graphic with the information of total fare by city type per week
 **Conclusions:**
 
 **Rural rides are low in the first weeks of the month, may work to have promotions that days**
+
 **On the contrary, urban rides are high in the first weeks of the month, in order to make the time larger that rides are increasing, may work to have publicity**
+
 **For suburban rides we need more information**
 
 By Raquel Valdez
